@@ -1,241 +1,241 @@
-AF|afghanistan
-AL|albania
-DZ|algeria
-AS|american samoa
-AD|andorra
-AO|angola
-AI|anguilla
-AQ|antarctica
-AG|antigua and barbuda
-AR|argentina
-AM|armenia
-AW|aruba
-AU|australia
-AT|austria
-AZ|azerbaijan
-BS|bahamas
-BH|bahrain
-BD|bangladesh
-BB|barbados
-BY|belarus
-BE|belgium
-BZ|belize
-BJ|benin
-BM|bermuda
-BT|bhutan
-BO|bolivia
-BA|bosnia and herzegovina
-BW|botswana
-BV|bouvet island
-BR|brazil
-IO|british indian ocean territory
-BN|brunei darussalam
-BG|bulgaria
-BF|burkina faso
-BI|burundi
-KH|cambodia
-CM|cameroon
-CA|canada
-CV|cape verde
-KY|cayman islands
-CF|central african republic
-TD|chad
-CL|chile
-CN|china
-CX|christmas island
-CC|cocos (keeling) islands
-CO|colombia
-KM|comoros
-CG|congo
-CD|congo, the democratic republic of the
-CK|cook islands
-CR|costa rica
-CI|cote d'ivoire
-HR|croatia
-CU|cuba
-CY|cyprus
-CZ|czech republic
-DK|denmark
-DJ|djibouti
-DM|dominica
-DO|dominican republic
-TP|east timor
-EC|ecuador
-EG|egypt
-SV|el salvador
-GQ|equatorial guinea
-ER|eritrea
-EE|estonia
-ET|ethiopia
-FK|falkland islands (malvinas)
-FO|faroe islands
-FJ|fiji
-FI|finland
-FR|france
-GF|french guiana
-PF|french polynesia
-TF|french southern territories
-GA|gabon
-GM|gambia
-GE|georgia
-DE|germany
-GH|ghana
-GI|gibraltar
-GR|greece
-GL|greenland
-GD|grenada
-GP|guadeloupe
-GU|guam
-GT|guatemala
-GN|guinea
-GW|guinea-bissau
-GY|guyana
-HT|haiti
-HM|heard island and mcdonald islands
-VA|holy see (vatican city state)
-HN|honduras
-HK|hong kong
-HU|hungary
-IS|iceland
-IN|india
-ID|indonesia
-IR|iran, islamic republic of
-IQ|iraq
-IE|ireland
-IL|israel
-IT|italy
-JM|jamaica
-JP|japan
-JO|jordan
-KZ|kazakstan
-KE|kenya
-KI|kiribati
-KP|korea, democratic people's republic of
-KR|korea, republic of
-KV|kosovo
-KW|kuwait
-KG|kyrgyzstan
-LA|lao people's democratic republic
-LV|latvia
-LB|lebanon
-LS|lesotho
-LR|liberia
-LY|libyan arab jamahiriya
-LI|liechtenstein
-LT|lithuania
-LU|luxembourg
-MO|macau
-MK|macedonia, the former yugoslav republic of
-MG|madagascar
-MW|malawi
-MY|malaysia
-MV|maldives
-ML|mali
-MT|malta
-MH|marshall islands
-MQ|martinique
-MR|mauritania
-MU|mauritius
-YT|mayotte
-MX|mexico
-FM|micronesia, federated states of
-MD|moldova, republic of
-MC|monaco
-MN|mongolia
-MS|montserrat
-ME|montenegro
-MA|morocco
-MZ|mozambique
-MM|myanmar
-NA|namibia
-NR|nauru
-NP|nepal
-NL|netherlands
-AN|netherlands antilles
-NC|new caledonia
-NZ|new zealand
-NI|nicaragua
-NE|niger
-NG|nigeria
-NU|niue
-NF|norfolk island
-MP|northern mariana islands
-NO|norway
-OM|oman
-PK|pakistan
-PW|palau
-PS|palestinian territory, occupied
-PA|panama
-PG|papua new guinea
-PY|paraguay
-PE|peru
-PH|philippines
-PN|pitcairn
-PL|poland
-PT|portugal
-PR|puerto rico
-QA|qatar
-RE|reunion
-RO|romania
-RU|russian federation
-RW|rwanda
-SH|saint helena
-KN|saint kitts and nevis
-LC|saint lucia
-PM|saint pierre and miquelon
-VC|saint vincent and the grenadines
-WS|samoa
-SM|san marino
-ST|sao tome and principe
-SA|saudi arabia
-SN|senegal
-RS|serbia
-SC|seychelles
-SL|sierra leone
-SG|singapore
-SK|slovakia
-SI|slovenia
-SB|solomon islands
-SO|somalia
-ZA|south africa
-GS|south georgia and the south sandwich islands
-ES|spain
-LK|sri lanka
-SD|sudan
-SR|suriname
-SJ|svalbard and jan mayen
-SZ|swaziland
-SE|sweden
-CH|switzerland
-SY|syrian arab republic
-TW|taiwan, province of china
-TJ|tajikistan
-TZ|tanzania, united republic of
-TH|thailand
-TG|togo
-TK|tokelau
-TO|tonga
-TT|trinidad and tobago
-TN|tunisia
-TR|turkey
-TM|turkmenistan
-TC|turks and caicos islands
-TV|tuvalu
-UG|uganda
-UA|ukraine
-AE|united arab emirates
-GB|united kingdom
-US|united states
-UM|united states minor outlying islands
-UY|uruguay
-UZ|uzbekistan
-VU|vanuatu
-VE|venezuela
-VN|viet nam
-VG|virgin islands, british
-VI|virgin islands, u.s.
-WF|wallis and futuna
-EH|western sahara
-YE|yemen
-ZM|zambia
-ZW|zimbabwe
+0|AF|afghanistan
+1|AL|albania
+2|DZ|algeria
+3|AS|american samoa
+4|AD|andorra
+5|AO|angola
+6|AI|anguilla
+7|AQ|antarctica
+8|AG|antigua and barbuda
+9|AR|argentina
+10|AM|armenia
+11|AW|aruba
+12|AU|australia
+13|AT|austria
+14|AZ|azerbaijan
+15|BS|bahamas
+16|BH|bahrain
+17|BD|bangladesh
+18|BB|barbados
+19|BY|belarus
+20|BE|belgium
+21|BZ|belize
+22|BJ|benin
+23|BM|bermuda
+24|BT|bhutan
+25|BO|bolivia
+26|BA|bosnia and herzegovina
+27|BW|botswana
+28|BV|bouvet island
+29|BR|brazil
+30|IO|british indian ocean territory
+31|BN|brunei darussalam
+32|BG|bulgaria
+33|BF|burkina faso
+34|BI|burundi
+35|KH|cambodia
+36|CM|cameroon
+37|CA|canada
+38|CV|cape verde
+39|KY|cayman islands
+40|CF|central african republic
+41|TD|chad
+42|CL|chile
+43|CN|china
+44|CX|christmas island
+45|CC|cocos (keeling) islands
+46|CO|colombia
+47|KM|comoros
+48|CG|congo
+49|CD|congo, the democratic republic of the
+50|CK|cook islands
+51|CR|costa rica
+52|CI|cote d'ivoire
+53|HR|croatia
+54|CU|cuba
+55|CY|cyprus
+56|CZ|czech republic
+57|DK|denmark
+58|DJ|djibouti
+59|DM|dominica
+60|DO|dominican republic
+61|TP|east timor
+62|EC|ecuador
+63|EG|egypt
+64|SV|el salvador
+65|GQ|equatorial guinea
+66|ER|eritrea
+67|EE|estonia
+68|ET|ethiopia
+69|FK|falkland islands (malvinas)
+70|FO|faroe islands
+71|FJ|fiji
+72|FI|finland
+73|FR|france
+74|GF|french guiana
+75|PF|french polynesia
+76|TF|french southern territories
+77|GA|gabon
+78|GM|gambia
+79|GE|georgia
+80|DE|germany
+81|GH|ghana
+82|GI|gibraltar
+83|GR|greece
+84|GL|greenland
+85|GD|grenada
+86|GP|guadeloupe
+87|GU|guam
+88|GT|guatemala
+89|GN|guinea
+90|GW|guinea-bissau
+91|GY|guyana
+92|HT|haiti
+93|HM|heard island and mcdonald islands
+94|VA|holy see (vatican city state)
+95|HN|honduras
+96|HK|hong kong
+97|HU|hungary
+98|IS|iceland
+99|IN|india
+100|ID|indonesia
+101|IR|iran, islamic republic of
+102|IQ|iraq
+103|IE|ireland
+104|IL|israel
+105|IT|italy
+106|JM|jamaica
+107|JP|japan
+108|JO|jordan
+109|KZ|kazakstan
+110|KE|kenya
+111|KI|kiribati
+112|KP|korea, democratic people's republic of
+113|KR|korea, republic of
+114|KV|kosovo
+115|KW|kuwait
+116|KG|kyrgyzstan
+117|LA|lao people's democratic republic
+118|LV|latvia
+119|LB|lebanon
+120|LS|lesotho
+121|LR|liberia
+122|LY|libyan arab jamahiriya
+123|LI|liechtenstein
+124|LT|lithuania
+125|LU|luxembourg
+126|MO|macau
+127|MK|macedonia, the former yugoslav republic of
+128|MG|madagascar
+129|MW|malawi
+130|MY|malaysia
+131|MV|maldives
+132|ML|mali
+133|MT|malta
+134|MH|marshall islands
+135|MQ|martinique
+136|MR|mauritania
+137|MU|mauritius
+138|YT|mayotte
+139|MX|mexico
+140|FM|micronesia, federated states of
+141|MD|moldova, republic of
+142|MC|monaco
+143|MN|mongolia
+144|MS|montserrat
+145|ME|montenegro
+146|MA|morocco
+147|MZ|mozambique
+148|MM|myanmar
+149|NA|namibia
+150|NR|nauru
+151|NP|nepal
+152|NL|netherlands
+153|AN|netherlands antilles
+154|NC|new caledonia
+155|NZ|new zealand
+156|NI|nicaragua
+157|NE|niger
+158|NG|nigeria
+159|NU|niue
+160|NF|norfolk island
+161|MP|northern mariana islands
+162|NO|norway
+163|OM|oman
+164|PK|pakistan
+165|PW|palau
+166|PS|palestinian territory, occupied
+167|PA|panama
+168|PG|papua new guinea
+169|PY|paraguay
+170|PE|peru
+171|PH|philippines
+172|PN|pitcairn
+173|PL|poland
+174|PT|portugal
+175|PR|puerto rico
+176|QA|qatar
+177|RE|reunion
+178|RO|romania
+179|RU|russian federation
+180|RW|rwanda
+181|SH|saint helena
+182|KN|saint kitts and nevis
+183|LC|saint lucia
+184|PM|saint pierre and miquelon
+185|VC|saint vincent and the grenadines
+186|WS|samoa
+187|SM|san marino
+188|ST|sao tome and principe
+189|SA|saudi arabia
+190|SN|senegal
+191|RS|serbia
+192|SC|seychelles
+193|SL|sierra leone
+194|SG|singapore
+195|SK|slovakia
+196|SI|slovenia
+197|SB|solomon islands
+198|SO|somalia
+199|ZA|south africa
+200|GS|south georgia and the south sandwich islands
+201|ES|spain
+202|LK|sri lanka
+203|SD|sudan
+204|SR|suriname
+205|SJ|svalbard and jan mayen
+206|SZ|swaziland
+207|SE|sweden
+208|CH|switzerland
+209|SY|syrian arab republic
+210|TW|taiwan, province of china
+211|TJ|tajikistan
+212|TZ|tanzania, united republic of
+213|TH|thailand
+214|TG|togo
+215|TK|tokelau
+216|TO|tonga
+217|TT|trinidad and tobago
+218|TN|tunisia
+219|TR|turkey
+220|TM|turkmenistan
+221|TC|turks and caicos islands
+222|TV|tuvalu
+223|UG|uganda
+224|UA|ukraine
+225|AE|united arab emirates
+226|GB|united kingdom
+227|US|united states
+228|UM|united states minor outlying islands
+229|UY|uruguay
+230|UZ|uzbekistan
+231|VU|vanuatu
+232|VE|venezuela
+233|VN|viet nam
+234|VG|virgin islands, british
+235|VI|virgin islands, u.s.
+236|WF|wallis and futuna
+237|EH|western sahara
+238|YE|yemen
+239|ZM|zambia
+240|ZW|zimbabwe
