@@ -6,14 +6,14 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 public class Countries {
-    public static void main(String[] args) {
+    public static void main(String[] args) {//Hasmaps are fast, constant time operation!
 
         System.out.println("Welcome to your country program!");//Introduction
         HashMap<String, ArrayList<CountryData>> information = new HashMap();//Hashmap with an array list where CountryData references the stand alone class that olds all of the variables listed
         String postContent = readFile("countries.txt");
         String[] lines = postContent.split("\n");
 
-        for (String line : lines) {//this loop loops over the lines of data which are connotated within the loop itself
+        for (String line : lines) {//this loop loops over the lines of data which are connotated
             String[] columns = line.split("\\|");
             int countryId = Integer.valueOf(columns[0]);//line 1
             String countryAb = columns[1];//line 2
@@ -21,7 +21,7 @@ public class Countries {
             String firstLetter = country.substring(0, 1);//this tells the loop what its looking for (first two letters)
             CountryData countryData = new CountryData(countryId, countryAb, country);
             ArrayList<CountryData> list = information.get(firstLetter);
-            if (list == null) {
+            if (list == null) {//if nothing is in the array list then add this information to a NEW array list
                 list = new ArrayList();
                 list.add(countryData);
                 information.put(firstLetter, list);
@@ -39,8 +39,8 @@ public class Countries {
             String contents = "";
             for (CountryData data : numList) {//not finished...reference someone elses code for syntax and do this!
                 contents += data.country + "\n";
-                writeFile(newFile, contents);
             }
+            writeFile(newFile, contents);
         }
     }
 
